@@ -1,0 +1,16 @@
+@import "part/reset.css";
+@import "global.css";
+@import "part/header-style.css";
+@import "part/preview.css";
+@import "part/steps.css";
+@import "part/destinations.css";
+
+
+
+
+
+
+.wrapper-destinations
+{
+  background-image: url(/image/Background/background-2.png);   
+}
