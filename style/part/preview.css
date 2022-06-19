@@ -1,18 +1,67 @@
-.prevew-div{
-    /* margin: 100px; */
+.prevew-div {}
+
+
+
+
+
+.preview {
     background-image: url(/image/Background/background-1.png);
     background-position-y: -90px, -90px;
 
     padding: 32px 428px 0px 120px;
     height: 422px;
+}
+
+.preview__text {
+    font-family: 'Aleo';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 24px;
+    color: #FFFFFF;
 
 }
 
+.preview__form {
+    border-radius: 1rem;
+    margin: 46px 0 0 0;
+    background: var(--main-form);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+
+}
+
+.preview__form_submit {
+    margin: 18px 18px 18px 0;
+    padding: 13px 32px;
+    background: #0D606F;
+    box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
 
 
-.main{
-height: 675px;
 
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+
+
+}
+
+.preview__form_input {
+    width: 560px;
+    color: #F2785C;
+    margin: 32px 45px 41px 41px;
+    font-family: 'Aleo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    background: rgba(0, 0, 0, .0);
 
 
 }

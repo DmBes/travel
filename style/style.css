@@ -1,4 +1,5 @@
 @import "part/reset.css";
+@import "part/const.css";
 @import "global.css";
 @import "part/header-style.css";
 @import "part/preview.css";

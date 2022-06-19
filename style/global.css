@@ -1,11 +1,12 @@
 *{
     box-sizing: border-box;
     font-size: 16px;
+    
 }
 
 .wrapper{
     width: 1440px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .button{
@@ -16,8 +17,14 @@
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 5rem;
     color: #FFFFFF;
+    font-family: 'Aleo';
+    font-weight: 700;
+    line-height: 96px;
+    
+
+
 }
 h2 {
     font-size: 2.5rem;
@@ -26,5 +33,9 @@ h2 {
 h3 {
     color: #FFFFFF;
     font-size: 2rem;
+    font-family: 'Magra';
+    font-style: normal;
+    font-weight: 600;
+    line-height: 39px;
 }
 
