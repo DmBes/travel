@@ -3,3 +3,49 @@
 
 
 }
+
+.layout-3 {
+    background-color: var(--color-ico);
+    border-radius: 16px;
+    margin: 0px;
+
+
+}
+
+.calend-ico {
+    margin: 0 347px;
+    padding: 15px;
+    ;
+}
+
+.bike-ico {
+    margin-left: 92px;
+    padding: 25px;
+}
+
+.airplane-ico {
+    padding: 18px 17px 17px 18px;
+    margin-right: 91px;
+}
+
+.layout-3-column {margin-top: 40px;}
+
+.steps__text {
+    display: inline-block;
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: #0D606F;
+}
+
+.steps__text:first-child {
+    margin-right: 216px;
+
+}
+
+.steps__text:last-child {
+    margin-left: 160px;
+
+}

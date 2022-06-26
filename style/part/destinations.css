@@ -1,0 +1,59 @@
+.slaider {
+    width: 100%;
+    margin-top: 37px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    ;
+
+
+}
+
+.destinations {
+    margin-top: 97px;
+}
+
+.slaider__img {
+
+    position: relative;
+    border-radius: 16px;
+    left: -30px;
+    margin: 0 30px;
+
+}
+
+.slaider__img:last-child {
+    margin-left: 41px;
+}
+
+
+.destinations__btn_ico {
+    margin-right: 10px;
+}
+
+.slider-slider{
+    margin: 0 auto;
+
+}
+
+
+.destinations__btn {
+    background: #0D606F;
+    box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: #FFFFFF;
+    padding: 9px 31px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 37px auto;
+
+}
