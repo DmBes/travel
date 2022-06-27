@@ -49,3 +49,57 @@
     margin-left: 160px;
 
 }
+
+
+.lay-3-col{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items:center;
+}
+
+.lay__element{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items:center;
+}
+
+
+.lay-3 {
+    background-color: var(--color-ico);
+    border-radius: 16px;
+    margin: 0px;
+
+
+}
+
+
+.steps__text1 {
+    display: inline-block;
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: #0D606F;
+}
+
+
+
+.calend-ico1 {
+    padding: 15px;
+    ;
+}
+
+.bike-ico1 {
+
+    padding: 25px;
+}
+
+.airplane-ico1 {
+    padding: 18px 17px 17px 18px;
+
+}
