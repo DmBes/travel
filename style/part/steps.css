@@ -55,8 +55,9 @@
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items:center;
+    margin-top: 40px;
 }
 
 .lay__element{
@@ -103,3 +104,4 @@
     padding: 18px 17px 17px 18px;
 
 }
+
